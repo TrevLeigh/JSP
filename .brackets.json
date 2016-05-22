@@ -1,0 +1,7 @@
+{
+    "jscodehints.detectedExclusions": [
+        "D:/WebApp/PreloadJS-0.6.2/PreloadJS-0.6.2/lib/preloadjs-0.6.2.min.js",
+        "D:/WebApp/PreloadJS-0.6.2/PreloadJS-0.6.2/src/createjs/events/Event.js",
+        "D:/WebApp/scripts/tweenjs-NEXT.min.js"
+    ]
+}
